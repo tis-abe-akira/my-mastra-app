@@ -2,7 +2,10 @@
 
 Mastraの勉強用のリポジトリです
 
+## 参考情報
 
+[MastraでMCP連携できるAIエージェントを作ろう](https://note.com/nike_cha_n/n/nbc7696f06eb8)
+[Mastraで作るAIエージェント入門](https://zenn.dev/serinuntius/books/4346a0fc6818f3)
 
 
 ## api呼び出しの例
