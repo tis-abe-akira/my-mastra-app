@@ -9,7 +9,7 @@ import { webSearchAgent } from './agents/webSearchAgent';
 
 export const mastra = new Mastra({
   workflows: { weatherWorkflow },
-  agents: { chefAgent, weatherAgent, clineRulesAgent },
+  agents: { chefAgent, weatherAgent, clineRulesAgent, webSearchAgent },
   logger: createLogger({
     name: 'Mastra',
     level: 'info',

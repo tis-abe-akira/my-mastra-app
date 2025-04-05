@@ -117,3 +117,6 @@ export { vectorQueryTool } from "./rag/vectorQuery";
 
 // チートシートツール
 export { saveCheatsheetTool } from "./cheatsheet/saveCheatsheet";
+
+// webSearchツール
+export { webSearchTool } from "./websearch/webSearchTool";
