@@ -1,5 +1,4 @@
-import { openai } from '@ai-sdk/openai';
-import { google } from '@ai-sdk/google';
+import { google } from '../models';
 import { Agent } from '@mastra/core/agent';
 import { Step, Workflow } from '@mastra/core/workflows';
 import { z } from 'zod';
